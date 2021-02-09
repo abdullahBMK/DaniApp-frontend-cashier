@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "805578589159",
+    "firebase_url": "https://soolz-8cce8.firebaseio.com",
+    "project_id": "soolz-8cce8",
+    "storage_bucket": "soolz-8cce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805578589159:android:0759887897a9b7248ab342",
+        "android_client_info": {
+          "package_name": "com.rest.soolz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RR1yfax6KRnCk7pi_vllcBTYVlKfsaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805578589159-mu9623fmntl37lh7f69p73m592ohm3cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "soolzapp.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805578589159:android:bc5f85a4d08b69ff8ab342",
+        "android_client_info": {
+          "package_name": "com.soolz.cashier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RR1yfax6KRnCk7pi_vllcBTYVlKfsaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805578589159-mu9623fmntl37lh7f69p73m592ohm3cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "soolzapp.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805578589159:android:42d7b80435537e078ab342",
+        "android_client_info": {
+          "package_name": "com.soolz.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RR1yfax6KRnCk7pi_vllcBTYVlKfsaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805578589159-m52hbd3mb62n83pitfq3mvsc5r4l82t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805578589159-mu9623fmntl37lh7f69p73m592ohm3cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "soolzapp.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
